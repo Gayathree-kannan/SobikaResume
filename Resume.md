@@ -31,7 +31,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 1. Library Management System
 
-   - FrontEnd : C#.Net
+   - Front End : C#.Net
    - Database : SQL 
 
 2. Resume
