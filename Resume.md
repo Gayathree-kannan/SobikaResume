@@ -19,15 +19,19 @@ To enhance my educational and professional skills by refining my knowledge to th
 | Higher Secondary School | Mahatma Montessori Matriculation School, Madurai | 2016 | 7.85
 | SSLC | Mahatma Montessori CBSE School, Madurai | 2014 | 82.0 |
 
-### Technical Skills
+###Technical Skills
 
-> **Languages Known**
+**Languages Known**
 
 - C
 - C#
 - HTML
 
-> **Projects**
+**Area of Interest**
+
+- Database Management System
+
+**Projects**
 
 1. Library Management System
 
@@ -40,16 +44,16 @@ To enhance my educational and professional skills by refining my knowledge to th
 
 ### Co-Curricular Activities
 
-> **Paper Presentation**
+**Paper Presentation**
 
 - Presented paper entitled **Solar Power**
 on 28.March.2017
 
-> **Hackathon**
+**Hackathon**
 
 - Participated in HCL Hackathon on 26.08.2018
 
-> **Achivements**
+**Achivements**
 
 - First prize in **volleyball** , **Tennikoit(doubles)** , **Disc-Throw** during school days.
 
