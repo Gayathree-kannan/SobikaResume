@@ -7,7 +7,7 @@
 **P** :&nbsp;8124436532, 9788734626
 
 
-### Career Objective
+# Career Objective
 
 To enhance my educational and professional skills by refining my knowledge to the growth of company and my skills.
 
@@ -19,7 +19,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 | Higher Secondary School | Mahatma Montessori Matriculation School, Madurai | 2016 | 7.85
 | SSLC | Mahatma Montessori CBSE School, Madurai | 2014 | 82.0 |
 
-### Technical Skills
+# Technical Skills
 
 **Languages Known**
 
@@ -42,7 +42,7 @@ To enhance my educational and professional skills by refining my knowledge to th
  
    - Using HTML
 
-### Co-Curricular Activities
+# Co-Curricular Activities
 
 **Paper Presentation**
 
@@ -60,13 +60,13 @@ on 28.March.2017
 - Been an **Interact Club** member in rotary club of madurai west for the year 2014 to 2015.
 
 
-### Certification
+# Certification
 
 - **Python(Basics)** in Venus Institute during April-May 2019.
 - **Diploma in MS-Office** in Computer Software College (CSC) during 21.June.2010 to 21.August.2010.
 - **Diploma in Graphics and Animation** in Computer Software College (CSC) during 05.May.2009 to 05.June.2009.
 
-### Personal Details
+# Personal Details
 
 - Father Name&nbsp;:RamaMoorthy A.
 - Date of birth&nbsp;:20.March.1999.
