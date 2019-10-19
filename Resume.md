@@ -11,7 +11,7 @@
 
 To enhance my educational and professional skills by refining my knowledge to the growth of company and my skills.
 
-### Educational Qualification
+# Educational Qualification
 
 | Course | Institute    | Year of Passing | CGPA |
 | :------: | :------------: | :---------------: | :----: |
