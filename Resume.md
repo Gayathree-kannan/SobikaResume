@@ -1,10 +1,10 @@
 # SOBIKA R
 
-**E** :shobika.moorthy@gmail.com
+**E** :&nbsp;shobika.moorthy@gmail.com
 
-**A** :Meenakshi Amman Nagar,Surya Nagar,Madurai.
+**A** :&nbsp;Meenakshi Amman Nagar,Surya Nagar,Madurai.
 
-**P** :8124436532, 9788734626
+**P** :&nbsp;8124436532, 9788734626
 
 
 ### Career Objective
@@ -32,7 +32,7 @@ To enhance my educational and professional skills by refining my knowledge to th
 1. Library Management System
 
    - Front End : C#.Net
-   - Database : SQL 
+   - Database  : SQL 
 
 2. Resume
  
@@ -45,11 +45,16 @@ To enhance my educational and professional skills by refining my knowledge to th
 - Presented paper entitled **Solar Power**
 on 28.March.2017
 
+> **Hackathon**
+
+- Participated in HCL Hackathon on 26.08.2018
+
 > **Achivements**
 
 - First prize in **volleyball** , **Tennikoit(doubles)** , **Disc-Throw** during school days.
 
 - Been an **Interact Club** member in rotary club of madurai west for the year 2014 to 2015.
+
 
 ### Certification
 
@@ -61,6 +66,7 @@ on 28.March.2017
 
 - Father Name&nbsp;:RamaMoorthy A.
 - Date of birth&nbsp;:20.March.1999.
+- Nationality&nbsp;&nbsp;&nbsp;&nbsp;:Indian.
 - Hobbies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Playing Ludo, Listening Songs.
 - Strength&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Good communication and presentation skills.
 
